@@ -10,6 +10,12 @@
 - 基本输入校验
 - 支持桌面端和手机浏览器
 
+## 在线访问
+
+启用 GitHub Pages 后可通过：
+
+`https://zhl9691.github.io/BMI-Calculator/`
+
 ## 使用方法
 
 直接打开 `index.html` 即可使用。
